@@ -1,0 +1,37 @@
+Usuario: Bibliotecario
+
+Como bibliotecario
+Quiero registrar nuevos libros en el sistema
+Para mantener actualizado el inventario de la biblioteca
+
+-----------------------------------------------------------------------------------------------------------
+
+Como bibliotecario
+Quiero registrar nuevos usuarios en el sistema
+Para habilitarlos para solicitar préstamos
+
+-----------------------------------------------------------------------------------------------------------
+
+Como bibliotecario
+Quiero registrar el préstamo de un libro
+Para que los alumnos puedan llevarlos a casa
+
+-----------------------------------------------------------------------------------------------------------
+
+Usuario: Alumno
+
+Como alumno
+Quiero consultar la lista de libros disponibles
+Para saber cuáles están en préstamo y cuáles puedo solicitar
+
+-----------------------------------------------------------------------------------------------------------
+
+Como alumno
+Quiero buscar un libro por su id
+Para encontrar rápidamente el libro que necesito
+
+-----------------------------------------------------------------------------------------------------------
+
+Como alumno
+Quiero devolver un libro que he recibido de préstamo
+Para reanudar la disponibilidad del libro.
